@@ -18,7 +18,7 @@
 
 ## 本地测试
 
-如你写好OS后，想在在本地测试，可以参考现有starry-next的[Readme](https://github.com/oscomp/starry-next)
+如你写好OS后，想在在本地测试，可以参考现有starry-next的[Readme](https://github.com/oscomp/starry-next)，这也是你的训练基础OS。
 
 ## 在线测试
 github的CI对内核进行测试的执行时间设置为 `300` 秒（`5`分钟），超时后程序会被终止，不再继续执行，所得分数为超时前完成的部分的分数。
